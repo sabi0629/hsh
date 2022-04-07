@@ -1,0 +1,119 @@
+.elementor-127 .elementor-element.elementor-element-54353dc > .elementor-container{max-width:1400px;}.elementor-127 .elementor-element.elementor-element-54353dc{margin-top:40px;margin-bottom:100px;padding:0px 35px 0px 35px;}.elementor-127 .elementor-element.elementor-element-cee144b .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-127 .elementor-element.elementor-element-cee144b .aux-modern-heading-primary{font-size:18px;font-weight:700;text-transform:capitalize;margin:0px 0px 0px 0px;}.elementor-127 .elementor-element.elementor-element-cee144b .aux-modern-heading-secondary .aux-head-highlight{font-size:40px;font-weight:600;text-transform:capitalize;letter-spacing:-2px;color:var( --e-global-color-text );}.elementor-127 .elementor-element.elementor-element-cee144b{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-title a{color:var( --e-global-color-text );font-size:25px;font-weight:700;letter-spacing:-0.5px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-title{margin-bottom:25px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-info a, .elementor-127 .elementor-element.elementor-element-56b5704 .entry-info{color:#00000099;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-info, .elementor-127 .elementor-element.elementor-element-56b5704 .entry-info a{font-size:16px;font-weight:700;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-info{margin-bottom:30px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-content{color:var( --e-global-color-327a04ae );font-size:16px;font-weight:400;}.elementor-127 .elementor-element.elementor-element-56b5704 .type-post .entry-main{padding:0px 40px 0px 40px;}.elementor-127 .elementor-element.elementor-element-56b5704{text-align:left;}.elementor-127 .elementor-element.elementor-element-56b5704 > .elementor-widget-container{margin:30px 0px 0px 0px;}@media(max-width:767px){.elementor-127 .elementor-element.elementor-element-cee144b .aux-modern-heading-primary{font-size:16px;}.elementor-127 .elementor-element.elementor-element-cee144b .aux-modern-heading-secondary .aux-head-highlight{font-size:28px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-title a{font-size:19px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-info, .elementor-127 .elementor-element.elementor-element-56b5704 .entry-info a{font-size:14px;}.elementor-127 .elementor-element.elementor-element-56b5704 .entry-content{font-size:14px;}.elementor-127 .elementor-element.elementor-element-56b5704 .type-post .entry-main{padding:30px 0px 0px 0px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-cee144b */.elementor-127 .elementor-element.elementor-element-cee144b .aux-widget-inner{
+    text-align: center;
+}
+.elementor-127 .elementor-element.elementor-element-cee144b .aux-modern-heading-primary{
+    display: inline-block;
+    background: transparent linear-gradient(97deg, var(--e-global-color-679982b4) 0%, var(--e-global-color-679982b4) 9%, var(--e-global-color-47b4746f) 27%, var(--e-global-color-6474545b) 47%, var(--e-global-color-48ed99e5) 63%, var(--e-global-color-16a23eba) 83%, var(--e-global-color-5540afdb) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_posts, class: .elementor-element-56b5704 */.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .post{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-media{
+    width:100%;
+    margin-bottom: 0;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main{
+    width:100%;
+   
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info{
+    background: transparent linear-gradient(180deg, rgba(238, 229, 214, 0.4) 0%, rgba(206, 216, 214, 0.4) 100%);
+    box-shadow: -5px 10px 50px #0000001a;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center;
+    padding: 12px 33px 7px 33px; 
+    max-width: 230px
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info .post-edit-link , .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info i{
+    display: none;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info [class^="entry-"] ~ [class^="entry-"]::before{
+    display: none;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info .entry-tax{
+    margin-right: 15px;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info .entry-tax a{
+    background: transparent linear-gradient(97deg, var(--e-global-color-679982b4) 0%, var(--e-global-color-679982b4) 9%, var(--e-global-color-47b4746f) 27%, var(--e-global-color-6474545b) 47%, var(--e-global-color-48ed99e5) 63%, var(--e-global-color-16a23eba) 83%, var(--e-global-color-5540afdb) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-circle{
+    display: none;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-load-more{
+    height: 50px;
+    width: 200px;
+    background: transparent linear-gradient(106deg, var(--e-global-color-primary) 0%, var(--e-global-color-2abbde8d) 100%);
+    border-radius: 50px;
+    transition: all 250ms ease-in;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-load-more:hover{
+    background: transparent linear-gradient(102deg, var(--e-global-color-primary) 0%, var(--e-global-color-48ed99e5) 100%) 0% 0% no-repeat padding-box;
+    
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-label-text , .elementor-127 .elementor-element.elementor-element-56b5704  .aux-load-more .aux-loading-label{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 53px;
+    text-transform: capitalize;
+    top:2px;
+    color: var(--e-global-color-aef23e3);
+    font-weight: 500;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .aux-media-frame{
+    transition:all 250ms ease-in;
+}
+.elementor-127 .elementor-element.elementor-element-56b5704 .aux-col:hover .entry-media .aux-media-frame{
+    box-shadow: -30px 30px 30px 0px rgba(88, 103.00000000000003, 128, 0.1);
+    border-radius: 20px;
+}
+@media screen and (max-width:1024px) and (min-width:900px){
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-media{
+        width: 60% !important;
+     }
+}
+@media only screen and (min-width:1025px){
+    .elementor-127 .elementor-element.elementor-element-56b5704 .entry-content{
+        max-width:261px;
+    }
+    
+}
+@media only screen and (max-width:1024px){
+    .elementor-127 .elementor-element.elementor-element-56b5704 .entry-title {
+        max-width:600px;
+    }
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .post{
+        flex-direction:column;
+    }
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main{
+        padding:0!important;
+        margin-top:50px;
+    }
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-media{
+        width:100%!important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .post{
+        display: flex;
+        flex-direction: column !important;
+        align-items: center;
+    }
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-col .entry-main .entry-info{
+        padding: 12px 23px 7px 23px !important;
+
+    }
+    .elementor-127 .elementor-element.elementor-element-56b5704 .aux-label-text , .elementor-127 .elementor-element.elementor-element-56b5704  .aux-load-more .aux-loading-label{
+        font-size: 14px !important;
+    }
+   
+}/* End custom CSS */

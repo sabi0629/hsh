@@ -1,0 +1,89 @@
+.elementor-128 .elementor-element.elementor-element-961ab5f > .elementor-container{max-width:1400px;}.elementor-128 .elementor-element.elementor-element-961ab5f{margin-top:70px;margin-bottom:100px;padding:0px 35px 0px 35px;}.elementor-128 .elementor-element.elementor-element-0954a1b .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-primary{font-size:18px;font-weight:700;text-transform:capitalize;margin:0px 0px 0px 0px;}.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-secondary .aux-head-highlight{font-size:40px;font-weight:600;text-transform:capitalize;letter-spacing:-2px;color:var( --e-global-color-text );}.elementor-128 .elementor-element.elementor-element-0954a1b{animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-128 .elementor-element.elementor-element-239411a .aux-media-image{border-radius:20px 20px 20px 20px !important;}.elementor-128 .elementor-element.elementor-element-239411a .entry-header .entry-title a{color:var( --e-global-color-text );font-size:30px;font-weight:700;text-transform:capitalize;letter-spacing:-0.9px;}.elementor-128 .elementor-element.elementor-element-239411a .entry-tax a{color:var( --e-global-color-327a04ae );}.elementor-128 .elementor-element.elementor-element-239411a .entry-tax{font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;}.elementor-128 .elementor-element.elementor-element-239411a > .elementor-widget-container{margin:30px 0px 0px 0px;}@media(max-width:1024px){.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-primary{font-size:17px;}.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-secondary .aux-head-highlight{font-size:34px;}.elementor-128 .elementor-element.elementor-element-239411a .entry-header .entry-title a{font-size:18px;}.elementor-128 .elementor-element.elementor-element-239411a .entry-tax{font-size:15px;}}@media(max-width:767px){.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-primary{font-size:16px;}.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-secondary .aux-head-highlight{font-size:28px;}.elementor-128 .elementor-element.elementor-element-239411a .entry-header .entry-title a{font-size:20px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-0954a1b */.elementor-128 .elementor-element.elementor-element-0954a1b .aux-widget-inner{
+    text-align: center;
+}
+.elementor-128 .elementor-element.elementor-element-0954a1b .aux-modern-heading-primary{
+    display: inline-block;
+    background: transparent linear-gradient(97deg, var(--e-global-color-679982b4) 0%, var(--e-global-color-679982b4) 9%, var(--e-global-color-47b4746f) 27%, var(--e-global-color-6474545b) 47%, var(--e-global-color-48ed99e5) 63%, var(--e-global-color-16a23eba) 83%, var(--e-global-color-5540afdb) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-239411a */.elementor-128 .elementor-element.elementor-element-239411a .wpulike{
+    display: none;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .entry-main{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .entry-main .entry-info{
+    margin-bottom: 10px;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-col .entry-media a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-col .entry-media a:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: transparent linear-gradient(137deg, #5D26CB 0%, var(--e-global-color-679982b4) 0%, var(--e-global-color-47b4746f) 24%, var(--e-global-color-6474545b) 48%, var(--e-global-color-48ed99e5) 65%, var(--e-global-color-16a23eba) 83%, var(--e-global-color-5540afdb) 100%);
+    display: inline-block;
+    position: absolute;
+    top:0;
+    left:0;
+    opacity: 0;
+    transition:all 250ms ease-in;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-col:hover .entry-media a:after{
+    opacity: 0.8;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-col .entry-media a:before{
+    content: "\e1ef";
+    font-family: "auxin-front";
+    font-size: 90px;
+    color: var(--e-global-color-aef23e3);
+    font-weight: bolder;
+    position: absolute;
+    z-index: 99;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-col:hover .entry-media a:before{
+    opacity: 1;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-circle{
+    display: none;
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-load-more{
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    transition: all 250ms ease-in;
+    background: transparent linear-gradient(106deg, var(--e-global-color-primary) 0%, var(--e-global-color-2abbde8d) 100%);
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-load-more:hover{
+    background: transparent linear-gradient(106deg, var(--e-global-color-secondary) 0%, var(--e-global-color-14d457c7) 100%);
+}
+.elementor-128 .elementor-element.elementor-element-239411a .aux-label-text , .elementor-128 .elementor-element.elementor-element-239411a  .aux-load-more .aux-loading-label{
+    line-height: 55px;
+    text-transform: capitalize;
+    color: var(--e-global-color-aef23e3);
+    font-weight: 700;
+}
+
+@media screen and (max-width:1024px){
+    .elementor-128 .elementor-element.elementor-element-239411a .aux-col .entry-media a:before{
+        font-size: 65px;
+    }
+     
+}
+@media screen and (max-width:414px){
+        .elementor-128 .elementor-element.elementor-element-239411a .aux-ajax-view {
+        margin-bottom:20px;
+    }
+}
+@media screen and (max-width:320px){
+       .aux-load-more {
+       width:100%!important;
+    }
+}/* End custom CSS */
