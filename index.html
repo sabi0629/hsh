@@ -35,6 +35,16 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
+<script type="text/javascript">
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    })
+    $("body").on("contextmenu", function(e) {
+        return false;
+    })
+
+    })
+</script>
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min7404.css?ver=5.9.3' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
